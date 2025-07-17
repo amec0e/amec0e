@@ -4,6 +4,16 @@
 
 Security Researcher and Occasional CTFer
 
+## LAB401 Content:
+
+[Deauthentication](https://lab401.com/blogs/academy/deauth)
+
+[WiFi-Pineapple Captive Portals](https://lab401.com/blogs/academy/wifi-pineapple-portals-with-amecoe)
+
+[WiFi Puneapple Detection Made Easy](https://lab401.com/blogs/academy/wifi-pineapple-detection-made-easy-pinescan-multissid-in-action-with-the-feberis-pro-for-your-flipper-zero)
+
+**5% Off** @ LAB401 with discount code: AMEC0E
+
 ## Github Stats
 
 ![amec0e's Stats](https://github-readme-stats.vercel.app/api?username=amec0e&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
