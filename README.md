@@ -4,7 +4,7 @@ Security Researcher and Occasional CTFer
 
 ### LAB401 Content:
 
-[Everyrhing About Deauthentication](https://lab401.com/blogs/academy/deauth)
+[Everything About Deauthentication](https://lab401.com/blogs/academy/deauth)
 
 [WiFi Pineapple Captive Portals](https://lab401.com/blogs/academy/wifi-pineapple-portals-with-amecoe)
 
