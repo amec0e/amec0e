@@ -1,14 +1,12 @@
-## Hi there 👋
-
 ### About Me
 
 Security Researcher and Occasional CTFer
 
-## LAB401 Content:
+### LAB401 Content:
 
-[Deauthentication](https://lab401.com/blogs/academy/deauth)
+[Everyrhing About Deauthentication](https://lab401.com/blogs/academy/deauth)
 
-[WiFi-Pineapple Captive Portals](https://lab401.com/blogs/academy/wifi-pineapple-portals-with-amecoe)
+[WiFi Pineapple Captive Portals](https://lab401.com/blogs/academy/wifi-pineapple-portals-with-amecoe)
 
 [WiFi Pineapple Detection Made Easy](https://lab401.com/blogs/academy/wifi-pineapple-detection-made-easy-pinescan-multissid-in-action-with-the-feberis-pro-for-your-flipper-zero)
 
