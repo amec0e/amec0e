@@ -1,5 +1,3 @@
-## == Welcome ==
-
 ## About Me
 
 Security Researcher and Occasional CTFer
