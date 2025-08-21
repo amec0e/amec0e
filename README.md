@@ -2,6 +2,8 @@
 
 Security Researcher and Occasional CTFer
 
+Enjoy RFID, Wireless Networking, Wardriving, CTFs, Research and just about anything that's breakable!
+
 ## LAB401 Content:
 
 [Everything About Deauthentication](https://lab401.com/blogs/academy/deauth)
@@ -12,7 +14,7 @@ Security Researcher and Occasional CTFer
 
 **5% Off** @ LAB401 with discount code: AMEC0E
 
-## Buy me a Coffee
+##### Buy me a Coffee
 
 If you enjoyed any of my work, consider buying me a [coffee here](https://buymeacoffee.com/amec0e)
 
