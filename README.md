@@ -16,8 +16,6 @@ Enjoy RFID, Wireless Networking, Wardriving, CTFs, Research and just about anyth
 
 ## Socials
 
-My other socials
-
 [Instagram](https://www.instagram.com/amec0e)
 
 [X/Twitter](https://x.com/amec0e)
@@ -30,6 +28,6 @@ My other socials
 
 ## Coffee
 
-If you found any of my work useful, consider buying me a coffee
+If you have found any of my work useful in some way or another, consider buying me a coffee.
 
 <a href="https://www.buymeacoffee.com/amec0e" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 200px !important;" ></a>
