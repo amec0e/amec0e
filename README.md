@@ -14,10 +14,6 @@ Enjoy RFID, Wireless Networking, Wardriving, CTFs, Research and just about anyth
 
 **5% Off** @ LAB401 with discount code: AMEC0E
 
-If you found any of my work useful, consider buying me a coffee
-
-<a href="https://www.buymeacoffee.com/amec0e" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 200px !important;" ></a>
-
 ## Socials
 
 My other socials
@@ -25,6 +21,10 @@ My other socials
 [Instagram](https://www.instagram.com/amec0e)
 
 [X/Twitter](https://x.com/amec0e)
+
+If you found any of my work useful, consider buying me a coffee
+
+<a href="https://www.buymeacoffee.com/amec0e" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 200px !important;" ></a>
 
 ## Github Stats
 
