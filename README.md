@@ -22,12 +22,14 @@ My other socials
 
 [X/Twitter](https://x.com/amec0e)
 
-If you found any of my work useful, consider buying me a coffee
-
-<a href="https://www.buymeacoffee.com/amec0e" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 200px !important;" ></a>
-
 ## Github Stats
 
 ![amec0e's Stats](https://github-readme-stats.vercel.app/api?username=amec0e&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
 ![amec0e's Streak](https://github-readme-streak-stats.herokuapp.com/?user=amec0e&theme=tokyonight&hide_border=true)
 ![amec0e's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amec0e&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+## Coffee
+
+If you found any of my work useful, consider buying me a coffee
+
+<a href="https://www.buymeacoffee.com/amec0e" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 200px !important;" ></a>
