@@ -23,6 +23,7 @@ If you found any of my work useful, consider buying me a coffee
 My other socials
 
 [Instagram](https://www.instagram.com/amec0e)
+
 [X/Twitter](https://x.com/amec0e)
 
 ## Github Stats
