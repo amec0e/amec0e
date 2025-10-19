@@ -18,6 +18,13 @@ If you found any of my work useful, consider buying me a coffee
 
 <a href="https://www.buymeacoffee.com/amec0e" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 200px !important;" ></a>
 
+## Socials
+
+My other socials
+
+[Instagram](https://www.instagram.com/amec0e)
+[X/Twitter](https://x.com/amec0e)
+
 ## Github Stats
 
 ![amec0e's Stats](https://github-readme-stats.vercel.app/api?username=amec0e&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
